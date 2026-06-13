@@ -1,0 +1,15 @@
+{
+  "name": "WorkTimer Pro",
+  "short_name": "WorkTimer Pro",
+  "description": "Pomodoro and deep work session manager",
+  "start_url": "/worktimer-pro/",
+  "scope": "/worktimer-pro/",
+  "display": "standalone",
+  "background_color": "#080810",
+  "theme_color": "#3b82f6",
+  "orientation": "any",
+  "icons": [
+    {"src": "/worktimer-pro/icons/icon-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "/worktimer-pro/icons/icon-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
